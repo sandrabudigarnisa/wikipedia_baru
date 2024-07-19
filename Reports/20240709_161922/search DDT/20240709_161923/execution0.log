@@ -2167,3 +2167,16 @@ search DDT.run(search DDT:26)
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+<record>
+  <date>2024-07-19T09:13:50.922013Z</date>
+  <millis>1721380430922</millis>
+  <nanos>13000</nanos>
+  <sequence>124</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>389</thread>
+  <message>Start finding a window that matches with title &amp;apos;C:\Users\sandra\Desktop\Wikipedia.lnk&amp;apos; in 120,000 millisecond(s)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
