@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Windows.startApplication('C:\\Users\\1556\\OneDrive\\Desktop\\Wikipedia.lnk', FailureHandling.STOP_ON_FAILURE)
+Windows.startApplicationWithTitle('C:\\Users\\1556\\OneDrive\\Desktop\\Wikipedia.lnk', 'Wikipedia')
 
 Windows.delay(5)
 
