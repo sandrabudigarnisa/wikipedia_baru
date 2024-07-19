@@ -17,7 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Windows.startApplicationWithTitle('C:\\Users\\1556\\OneDrive\\Desktop\\Wikipedia.lnk', 'Wikipedia, the free encyclopedia')
+Windows.startApplication('C:\\Users\\1556\\OneDrive\\Desktop\\Wikipedia.lnk', FailureHandling.STOP_ON_FAILURE)
+
+Windows.delay(5)
 
 Windows.click(findWindowsObject('login/Button_burger'))
 
