@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+search DDT,,,,09-07-2024 16:19:30,09-07-2024 16:22:06,2m - 35.313s,PASSED
+,,,,,,,
+Test Cases/search DDT,,,,09-07-2024 16:19:30,09-07-2024 16:20:06,35.682s,PASSED
+"startApplicationWithTitle(""C:\Users\sandra\Desktop\Wikipedia.lnk"", ""Wikipedia"")",,,,09-07-2024 16:19:31,09-07-2024 16:20:03,32.262s,PASSED
+"click(findWindowsObject(""Object Repository/search/Edit""))",,,,09-07-2024 16:20:03,09-07-2024 16:20:04,0.771s,PASSED
+"setText(findWindowsObject(""Object Repository/search/Edit""), search)",,,,09-07-2024 16:20:04,09-07-2024 16:20:06,1.784s,PASSED
+"sendKeys(findWindowsObject(""Object Repository/search/Edit""), Keys.chord(ENTER))",,,,09-07-2024 16:20:06,09-07-2024 16:20:06,0.580s,PASSED
+,,,,,,,
+Test Cases/search DDT,,,,09-07-2024 16:20:50,09-07-2024 16:21:28,37.913s,PASSED
+"startApplicationWithTitle(""C:\Users\sandra\Desktop\Wikipedia.lnk"", ""Wikipedia"")",,,,09-07-2024 16:20:50,09-07-2024 16:21:25,35.473s,PASSED
+"click(findWindowsObject(""Object Repository/search/Edit""))",,,,09-07-2024 16:21:25,09-07-2024 16:21:26,0.535s,PASSED
+"setText(findWindowsObject(""Object Repository/search/Edit""), search)",,,,09-07-2024 16:21:26,09-07-2024 16:21:27,1.495s,PASSED
+"sendKeys(findWindowsObject(""Object Repository/search/Edit""), Keys.chord(ENTER))",,,,09-07-2024 16:21:27,09-07-2024 16:21:28,0.398s,PASSED
+,,,,,,,
+Test Cases/search DDT,,,,09-07-2024 16:21:28,09-07-2024 16:22:06,37.667s,PASSED
+"startApplicationWithTitle(""C:\Users\sandra\Desktop\Wikipedia.lnk"", ""Wikipedia"")",,,,09-07-2024 16:21:28,09-07-2024 16:22:03,35.012s,PASSED
+"click(findWindowsObject(""Object Repository/search/Edit""))",,,,09-07-2024 16:22:03,09-07-2024 16:22:03,0.542s,PASSED
+"setText(findWindowsObject(""Object Repository/search/Edit""), search)",,,,09-07-2024 16:22:03,09-07-2024 16:22:05,1.711s,PASSED
+"sendKeys(findWindowsObject(""Object Repository/search/Edit""), Keys.chord(ENTER))",,,,09-07-2024 16:22:05,09-07-2024 16:22:06,0.365s,PASSED
