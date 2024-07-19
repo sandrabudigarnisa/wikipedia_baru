@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Windows.startApplicationWithTitle('C:\\Users\\sandra\\Desktop\\Wikipedia.lnk', 'Wikipedia')
+Windows.startApplicationWithTitle('C:\\Users\\1556\\OneDrive\\Desktop\\Wikipedia.lnk', 'Wikipedia')
 
 Windows.click(findWindowsObject('Object Repository/search/Edit'))
 
