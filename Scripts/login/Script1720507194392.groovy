@@ -21,7 +21,7 @@ Windows.startApplicationWithTitle('C:\\Users\\1556\\OneDrive\\Desktop\\Wikipedia
 
 Windows.delay(5)
 
-Windows.click(findWindowsObject('login/Button_burger'))
+Windows.click(findWindowsObject('login/button_menu'))
 
 Windows.click(findWindowsObject('Object Repository/login/buttonLogin'))
 
